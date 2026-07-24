@@ -1,0 +1,10 @@
+# Private environment variables (API keys, passwords)
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment (if you created one locally)
+venv/
+.venv/
